@@ -1,0 +1,21 @@
+Komande
+
+Broj funkcija odredjuje koliko ce se funkcija koristiti za generaciju terena
+Dumping sa povecanjem dumpinga raste uticaj manjih funkcija (zato sto se mnozi sa dumpingom)
+Frequency menja frekvenciju funkcija
+Amplitude najveca dozvoljena visina, granice funkcija (visina)
+Color dodaje boju
+Lines pravi mrezni model
+Triangles pravi model preko trouglova (efektivno pravi povrsinu)
+Interpolation method zadaje metodu interpolacije
+Vertex count zadaje broj tacaka po duzini (biti oprezan sa tim usporava jako, skace broj proracuna, efektivno skalira mapu ka gornjem levom uglu)
+Numerical fun daje izbor funkcije (fun1 normalana funkcija ne toliko sa uvezanim promenljivima lakse je razumeti, fun2 nenormalna teze je razumeti moze se vise stvari izvuci)
+
+ w, a, s, d komande za kretanje
+ 
+ scroll odaljava (odzumira)
+ 
+ desni klik menja ugao oko nevidljivog objekta za koji je vezana kamera (oko Y ose)
+ 
+ levi klik menja ugao posmatranja objekta (odole ka odgore) za koji je vezana kamera (rotacija oko X ili Z ose u zavisnosti od polozaja kamere)
+
